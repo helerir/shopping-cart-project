@@ -1,0 +1,18 @@
+.thumbnail {
+    text-align: center;
+    margin: 10px;
+    padding: 30px;
+}
+
+.thumbnail img {
+    max-width: 150px;
+}
+
+.thumbnail .description {
+    color: #7f7f7f;
+}
+
+.thumbnail .price {
+    font-weight: bold;
+    font-size: 20px;
+}
