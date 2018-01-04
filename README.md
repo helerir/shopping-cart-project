@@ -9,7 +9,7 @@ Ostukorvis saab tooteid ka vähendada ja täielikult kustutada.
 Käivitamiseks: 
 
 1. git clone https://github.com/helerir/shopping-cart-project.git
-2. cd shopping-cart
+2. cd shopping-cart-project/shopping-cart
 3. npm install
 4. Lisa andmebaasi tooted: 
   4.1 cd seed
